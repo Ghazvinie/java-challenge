@@ -1,0 +1,4 @@
+com/matchesfashion/filter/model/Product.java
+ com.matchesfashion.filter.model.Product
+com/matchesfashion/filter/FilterAPI.java
+ com.matchesfashion.filter.FilterAPI
